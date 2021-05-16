@@ -1,6 +1,6 @@
 
 
-## Problem1
+## Problem1-PIZZA
 > __STATEMENT :__
 Write a program to do simulation of Event-Emitter in Javascript
 Events to be handle 
