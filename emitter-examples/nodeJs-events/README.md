@@ -1,6 +1,10 @@
 
 
+<<<<<<< HEAD
 ## Problem1 [ PIZZA ]
+=======
+## Problem1-PIZZA
+>>>>>>> 612a63640bd15f9935fa2dec86bb873d402003f9
 > __STATEMENT :__
 Write a program to( do simulation operations in PIZZA creation process using event emitter.
 Add ingredient to pizza-(add function) 
