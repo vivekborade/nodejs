@@ -1,8 +1,12 @@
 ## Problem1-PIZZA
 > __STATEMENT :__
-Write a program to do simulation PIZZA OPERATIONS using Event-Emitter in node js. 
-Events to be handle 
-i) add ingredient ii) cooked piza iii) backed piza iv) ready to dispatch etc
+> Write a program to do simulation PIZZA OPERATIONS using Event-Emitter in node js. 
+> Functions require
+> add(ingredient)
+> cooked()
+> delivered 
+> Events to be handle 
+
 >> __OUTPUT :__
 > > > __CHECKLIST :__
 
