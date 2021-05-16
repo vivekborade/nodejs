@@ -1,5 +1,34 @@
-List of All the Programs related to EVENT-EMITTER in NodeJS using require('events') :
 
-| Problem | Description | URL Links |
-| ------:| -----------:|
-| Problem1   | Basic program of how the event emitter can be created by using class in Javascript   | Autoconverted link https://github.com/nodeca/pica (enable linkify to see) |
+
+## Problem1
+> __STATEMENT :__
+Write a program to do simulation of Event-Emitter in Javascript
+Events to be handle 
+i) on ii) emit iii) clear iv) count
+>> __OUTPUT :__
+> > > __CHECKLIST :__
+
+
+
+
+| URL | Description |
+| ------ | ----------- |
+| http://markdown-it.github.io/#fnref3   | path to data files to supply the data that will be passed into templates. |
+
+
+
+
+## Problem1
+> __STATEMENT :__
+Write a program to do simulation of Event-Emitter in Javascript
+Events to be handle 
+i) on ii) emit iii) clear iv) count
+>> __OUTPUT :__
+> > > __CHECKLIST :__
+
+
+
+
+| URL | Description |
+| ------ | ----------- |
+| http://markdown-it.github.io/#fnref3   | path to data files to supply the data that will be passed into templates. |
