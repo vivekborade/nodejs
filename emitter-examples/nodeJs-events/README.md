@@ -6,7 +6,6 @@
 > cooked()
 > delivered 
 > Events to be handle 
-
 >> __OUTPUT :__
 > > > __CHECKLIST :__
 
