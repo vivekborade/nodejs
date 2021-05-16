@@ -1,11 +1,12 @@
 
 
-## Problem1
+## Problem1 [ PIZZA ]
 > __STATEMENT :__
-Write a program to do simulation of Event-Emitter in Javascript
-Events to be handle 
-i) on ii) emit iii) clear iv) count
->> __OUTPUT :__
+Write a program to( do simulation operations in PIZZA creation process using event emitter.
+Add ingredient to pizza-(add function) 
+Cook the pizza ( cook function)
+>> __EXPECTATION :__
+Using class inherit EventEmitter 
 > > > __CHECKLIST :__
 
 
