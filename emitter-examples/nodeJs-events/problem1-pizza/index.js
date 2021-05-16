@@ -15,6 +15,7 @@ const createSmallPiza = () => {
         .on('ingridentAdd',(ing)=>{ ingridentAdd(ing) })
         .on('cookStarted',()=>{ console.log("cooked started ...")})
         .on('cookFinished',()=>{ console.log("cooked finished ...")})
+        .on('pizzaReleased',()=>{ console.log(' pizza released ....')})
         .add('totato')
         .cook();       
 

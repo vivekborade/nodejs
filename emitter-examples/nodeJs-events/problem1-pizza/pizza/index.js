@@ -40,16 +40,16 @@ class Pizza extends EventEmitter
     }
 
     cook() {
-        this.emit("cookStarted");
+        this.emit("cookingStarted");
 
         setTimeout(() => {
           
             const releasePizza = setTimeout(() => {
-            this.emit("charredPizza");
+            this.emit("pizzaReleased");
           }, this.timeToReleasePizza);
 
 
-          this.emit("cookFinished", releasePizza);
+          this.emit("cookingFinished", releasePizza);
         }, this.ovenTime);
     
         return this;
